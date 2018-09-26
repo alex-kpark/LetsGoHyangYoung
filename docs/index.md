@@ -3,7 +3,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>2018년도 2학기 향밥 배분</title>
 </head>
 <body>
     <h1>향밥 조 배분</h1>
