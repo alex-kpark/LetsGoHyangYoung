@@ -5,7 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 </head>
 <body>
-<h1>향밥 조 안내</h1>
+<h1>향밥 조 안내</h1>  
+    <li>강우림 임선빈</li>
     <li>김건 김여민</li>
     <li>장슬빈 김나연 배시은</li>
     <li>양다인 김서진</li>
